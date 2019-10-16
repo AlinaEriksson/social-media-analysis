@@ -47,6 +47,6 @@ I would write something like this:
 /Users/alinaeriksson/Documents/Database/tinder.json
 ```
 
-###### Press enter and you got yourself some interesting numbers. 
+***Press enter and you got yourself some interesting numbers!*** 
 
 If you have any questions, or just want to compare data, I can be reached at alina.eriksson@hyperisland.se
