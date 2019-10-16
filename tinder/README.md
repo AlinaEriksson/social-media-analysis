@@ -9,8 +9,7 @@ You can either download the script and run it, or look at my code and make it yo
 ## HOW?
 First you need to download your [tinder data.](https://account.gotinder.com/login?from=%2Fdata)
 
-While waiting for that to show up in your email, get python ready. Maybe it is not important, but if you want to know
-I used the IDE PyCharm to write my code. 
+While waiting for that to show up in your email, get python ready. 
 
 __Version: Python 3.7.3__
 
